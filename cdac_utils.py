@@ -1,20 +1,5 @@
 def graph_viz(G):
     """Visualize NetworkX graph.
-
-    Parameters
-    ----------
-    G : networkx.Graph
-        The NetworkX graph to be visualized.
-
-    nx.draw_kamada_kawai(
-        G,
-        with_labels=True,
-        node_size=700,
-        width=3,
-        font_size=14,
-        font_weight="bold",
-        font_color="whitesmoke",
-    )
     """
     options = {
         "node_size": 900,
