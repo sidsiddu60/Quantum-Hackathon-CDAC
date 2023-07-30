@@ -6,6 +6,7 @@ The Problem statement falls under Combinatorial optimization problems, and am na
 By considering the problem and the data we will be adding some constraints such as: 
 
 •	Each religious place should be visited exactly once.
+
 •	Only a single religious place is visited at each time point.
 
 We will also introduce cost function to the problem statement.  This problem statement falls under  NP-hard problem in combinatorial optimization. ” many heuristics and exact algorithms are known, so that some instances with tens of thousands of nodes can be solved completely and even problems with millions of nodes can be approximated within a small fraction of 1%” – wiki. But for education purpose and complexity we will be using the Annealing simulator or the Quantum Approximate Optimization Algorithm (QAOA) to obtain the optimized solutions for the backpacker traveller problem.
