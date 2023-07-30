@@ -14,4 +14,5 @@ Leaving things to open for future to develop further by adding more temples and 
 
 References: 
 https://en.wikipedia.org/wiki/Travelling_salesman_problem
+
 QWorld / QResearch / QIntern2021 / 12_Educational material development for quantum annealing · GitLab 
